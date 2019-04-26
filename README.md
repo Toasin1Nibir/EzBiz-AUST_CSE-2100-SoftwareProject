@@ -8,7 +8,7 @@ EzBiz
 
 ## Authors
 
-*Nahid Hasan
+*Nahid Hasan & md Toasin Habib
 *github/Nahid244
 
 
